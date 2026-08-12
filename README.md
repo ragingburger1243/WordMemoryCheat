@@ -1,5 +1,5 @@
 # AimTrainerCheat
-A Python script that cheats the Human Benchmark number memory test by reading the number from the page and typing it back automatically using Selenium.
+A Python script that cheats the Human Benchmark word memory test by reading the number from the page and typing it back automatically using Selenium.
 
 ## Setup
 ```
@@ -8,7 +8,7 @@ pip install selenium
 
 ## Usage
 ```
-python Aimtrainer.py
+python WordMemory.py
 ```
 or run it in your IDE.
 
